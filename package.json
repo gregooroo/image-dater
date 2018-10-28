@@ -13,6 +13,7 @@
     "eslint-plugin-import": "^2.14.0"
   },
   "dependencies": {
-    "commander": "^2.19.0"
+    "commander": "^2.19.0",
+    "imagemagick": "^0.1.3"
   }
 }
